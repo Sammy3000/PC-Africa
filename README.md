@@ -28,6 +28,7 @@
 
 - HTML
 - CSS
+- Javascript
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
