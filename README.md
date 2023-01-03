@@ -83,7 +83,7 @@ Install this project with:
 
 - to install locally run git clone https://github.com/Sammy3000/PC-Africa
 - open the cloned directory with VSCode
-- Install lives erver extension for VSCode
+- Install live server extension for VSCode
 - Right click on the index.html and select open with live servers
 
 ### Usage
