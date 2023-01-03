@@ -1,91 +1,69 @@
 // Mobile menu code starts here
 
-const sideMenu = document.querySelector(".side-menu");
-const closeIcon = document.querySelector(".close-icon");
-const menuIcon = document.querySelector(".mobile-nav");
-const moreButton = document.querySelector(".more");
-menuIcon.addEventListener("click", () => {
-  sideMenu.style.display = "block";
+const sideMenu = document.querySelector('.side-menu');
+const closeIcon = document.querySelector('.close-icon');
+const menuIcon = document.querySelector('.mobile-nav');
+const moreButton = document.querySelector('.more');
+menuIcon.addEventListener('click', () => {
+  sideMenu.style.display = 'block';
 });
-closeIcon.addEventListener("click", () => {
-  sideMenu.style.display = "none";
+closeIcon.addEventListener('click', () => {
+  sideMenu.style.display = 'none';
 });
 // mobile menu ends here
 
 //  projects
-{
-  /* <div class="feature">
-        <div class="artist-image">
-          <img
-            src="images/arya.jpg"
-            alt="artist image"
-            width="100"
-            height="80"
-          />
-        </div>
-        <div class="artist-info">
-          <h6>Arya Star</h6>
-          <p class="artist-info-one">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,
-            animi!
-          </p>
-          <p class="artist-info-two">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti,
-            aspernatur.
-          </p>
-        </div> */
-}
 
-const featureArtists = document.querySelector(".featured-speakers");
+const featureArtists = document.querySelector('.featured-speakers');
 
 const artists = [
   {
     artistImage: './images/arya.jpg"',
-    name: "Arya Star",
+    name: 'Arya Star',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
   {
     artistImage: './images/burna.jpg"',
-    name: "Burnaboy",
+    name: 'Burnaboy',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
   {
     artistImage: './images/nikita.jpg"',
-    name: "Nikita Kering",
+    name: 'Nikita Kering',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
   {
     artistImage: './images/sauti.jpg"',
-    name: "Sauti Sol",
+    name: 'Sauti Sol',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
   {
     artistImage: './images/tiwa.jpg"',
-    name: "Tiwa Savage",
+    name: 'Tiwa Savage',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
   {
     artistImage: './images/wizkid.jpg"',
-    name: "Wizkid",
+    name: 'Wizkid',
     firstInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae,animi!',
     lastInfo:
-      " Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!",
+      ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi!',
   },
 ];
 
@@ -114,9 +92,9 @@ artists.forEach((artist) => {
 
 // displaying more artists on click mobile version
 
-const eachArtist = document.querySelectorAll(".feature");
-moreButton.addEventListener("click", () => {
+const eachArtist = document.querySelectorAll('.feature');
+moreButton.addEventListener('click', () => {
   eachArtist.forEach((artist) => {
-    artist.style.display = "flex";
+    artist.style.display = 'flex';
   });
 });
