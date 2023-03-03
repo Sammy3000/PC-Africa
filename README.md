@@ -160,6 +160,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Original Design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance
+- Hat tip to Microverse and all their staff.
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
 
