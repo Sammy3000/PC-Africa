@@ -138,8 +138,6 @@ And For tracking linter errors in REACT files run:
 - Twitter: [@towettsam](https://twitter.com/sammy15375658)
 - LinkedIn: [@towettSammy](https://www.linkedin.com/in/towett-sammy-43476024a/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
