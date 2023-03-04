@@ -116,7 +116,7 @@ For tracking linter errors in CSS or SASS files run:
 
 `npx stylelint "**/*.{css,scss}`
 
-And For tracking linter errors in REACT files run:
+And For tracking linter errors in JS files run:
 
 `npx eslint .`
 
