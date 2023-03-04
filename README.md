@@ -46,7 +46,10 @@ REQUIRED SECTIONS:
 
 - This is a website about a peace concert held yearly in Africa to promote peace. Listed is the event schedule and information about perfomance at the show to help users have a clear info about the event.
 
+## Screenshot
 
+![](./src/images/peace.PNG)
+![](./src/images/peace-mobile.PNG)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,7 +70,6 @@ To get a local copy up and running, follow these steps.
 ## 🚀 VIDEO WALKTHROUGH <a name="live-demo"></a>
 
 - [Walkthrough link](https://www.loom.com/share/a9cd37b9378a461c8266ea36d4a95faa)
-
 
 ### Prerequisites
 
@@ -124,14 +126,11 @@ And For tracking linter errors in REACT files run:
 - Install live server in your vs code.
 - Start the live server.
 
-
-
 <!-- AUTHORS -->
 
 ## Authors
 
 ## 👥 Author <a name="author"></a>
-
 
 👤 **Towett Sammy**
 
