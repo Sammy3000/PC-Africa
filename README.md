@@ -49,6 +49,7 @@ REQUIRED SECTIONS:
 ## Screenshot
 
 ![](./src/images/peace.PNG)
+
 ![](./src/images/peace-mobile.PNG)
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -61,7 +62,7 @@ REQUIRED SECTIONS:
 
 To get a local copy up and running, follow these steps.
 
-- Clone the Repo or Download the Zip file or `https://github.com/Sammy3000/PC-Afric`
+- Clone the Repo or Download the Zip file or `https://github.com/Sammy3000/PC-Africa`
 - cd /pc-africa
 - Run live server.
 
