@@ -125,7 +125,7 @@ And For tracking linter errors in JS files run:
 - Feel free to use this project.
 - clone the repo in your desired folder
 - Install live server in your vs code.
-- Start the live server.
+- Start live server.
 
 <!-- AUTHORS -->
 
