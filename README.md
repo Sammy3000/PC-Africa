@@ -153,6 +153,12 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
+<!--Feature Features-->
+## Feature Features
+- Implement show less button in mobile version.
+- Implement login to allow users to buy tickets.
+
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
